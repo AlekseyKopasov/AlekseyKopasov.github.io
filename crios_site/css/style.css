@@ -468,7 +468,7 @@ img {
   padding-left: 15px;
   padding-right: 15px;
   padding-bottom: 450px;
-  background-image: url("/images/bg_header.png");
+  background-image: url("../images/bg_header.png");
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: 0 225px; }
@@ -493,7 +493,7 @@ img {
   margin-top: 35px;
   margin-left: 25px;
   background-color: #ffffff;
-  background-image: url("/images/icon_menu.png");
+  background-image: url("../images/icon_menu.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 10px 10px;
@@ -568,7 +568,7 @@ img {
   margin-top: 35px;
   margin-right: 25px;
   background-color: #ffffff;
-  background-image: url("/images/icon_search.png");
+  background-image: url("../images/icon_search.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 10px 10px;
@@ -762,7 +762,7 @@ img {
     left: 95px;
     width: 30px;
     height: 30px;
-    background-image: url("/images/bg_features-sprite.png");
+    background-image: url("../images/bg_features-sprite.png");
     background-repeat: no-repeat;
     background-position: 0 0;
     background-size: cover; }
@@ -953,7 +953,7 @@ img {
     left: 18px;
     width: 404px;
     height: 100%;
-    background-image: url("/images/icon_snowflake-1.png");
+    background-image: url("../images/icon_snowflake-1.png");
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -1;
@@ -969,7 +969,7 @@ img {
           order: 2;
   padding: 62px 198px 0 0; }
   .applications__item:nth-child(2n) .applications__block-image::after {
-    background-image: url("/images/icon_snowflake-2.png");
+    background-image: url("../images/icon_snowflake-2.png");
     top: 374px;
     left: 319px; }
 
@@ -1041,7 +1041,7 @@ img {
   font-weigth: 400;
   color: #4b5863;
   background-color: #f7f8fb;
-  background-image: url("/images/bg_reviews.jpg");
+  background-image: url("../images/bg_reviews.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: 17px 84px; }
@@ -1096,7 +1096,7 @@ img {
   line-height: 24px;
   font-weigth: 400;
   color: #4b5863;
-  background-image: url("/images/bg_footer.png");
+  background-image: url("../images/bg_footer.png");
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: 0 163px; }
